@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from collections import defaultdict
 import folder_paths
 from models.baseline import BiRefNet
-from config import Config
+from brn_config import Config
 
 import cv2
 import numpy as np

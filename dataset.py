@@ -6,7 +6,7 @@ from torch.utils import data
 from torchvision import transforms
 
 from preproc import preproc
-from config import Config
+from brn_config import Config
 from glob import glob
 
 
